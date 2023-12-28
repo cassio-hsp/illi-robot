@@ -11,14 +11,6 @@
 
 ![placa-robot-hardware](https://github.com/cassio-hsp/illi/assets/38111232/f6828ff2-bc59-4728-9dbe-7cb4128ab167)
 
-## teste
-* GPIO 18 | SCL
-* GPIO 19 | SDO
-* GPIO 23 | SDA
-* GPIO 5  | CS
-* 3.3V    | VCC
-* GND     | GND
-
 ## CAD Model
 
 The chassi was made using Fusion 360 personal use license. Is three parts chassi.
