@@ -20,7 +20,7 @@
 
 ## CAD Model
 
-The chassi was made using Fusion 360 personal use license. Is three parts chassi.
+The chassi was made using Fusion 360 personal use license. Have three parts.
 
 ![illi1](https://github.com/cassio-hsp/illi/assets/38111232/86ba09ef-5c52-44b1-bbed-d3d01af795bb)
 
