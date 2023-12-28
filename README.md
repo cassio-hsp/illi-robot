@@ -17,7 +17,7 @@
 
 ![placa-robot-hardware](https://github.com/cassio-hsp/illi/assets/38111232/f6828ff2-bc59-4728-9dbe-7cb4128ab167)
 
-![a3a47e1d-7989-43e8-abf6-2358916360d3](https://github.com/cassio-hsp/illi/assets/38111232/eef55e7b-a418-430e-a1df-289ae02f7f91)
+
 
 
 ## CAD Model
