@@ -31,10 +31,10 @@ The chassi was made using Fusion 360 personal use license. Is three parts chassi
 ![illi5](https://github.com/cassio-hsp/illi/assets/38111232/6806101b-dc4d-4170-993b-9ceb8d595e39)
 
 ## PCB 
+![pcb1](https://github.com/cassio-hsp/illi/assets/38111232/b8c2c16e-9e2a-4cf4-b7c0-7fc6917101f3)
 
-![pcb1](https://github.com/cassio-hsp/illi/assets/38111232/cfed7cd2-0a91-4312-80ac-3d9e600516b6)
+![pcb2](https://github.com/cassio-hsp/illi/assets/38111232/d582ecfc-302f-45a0-a6aa-00638930f481)
 
-![pcb2](https://github.com/cassio-hsp/illi/assets/38111232/d94e6cde-4d31-4301-bdf8-64d7e4911e64)
 
 
 
