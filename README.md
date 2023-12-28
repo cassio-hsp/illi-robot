@@ -20,6 +20,7 @@ The chassi was made using Fusion 360 personal use license. Is three parts chassi
 
 
 ## PCB 
+The PCB is a main board that receives one microcontroller, the h bridge, a LDO 3.3v regulator and the headers.
 
 
 ## Future desired functions:
