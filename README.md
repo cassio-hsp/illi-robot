@@ -32,6 +32,11 @@ The chassi was made using Fusion 360 personal use license. Is three parts chassi
 
 ## PCB 
 
+![pcb1](https://github.com/cassio-hsp/illi/assets/38111232/cfed7cd2-0a91-4312-80ac-3d9e600516b6)
+
+![pcb2](https://github.com/cassio-hsp/illi/assets/38111232/d94e6cde-4d31-4301-bdf8-64d7e4911e64)
+
+
 
 ## Future desired functions:
 * Oled Display Module.
