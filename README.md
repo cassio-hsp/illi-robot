@@ -1,7 +1,7 @@
 # illi Robot
 ## A compact programmable desktop robot
 
-./![illi-bot](https://github.com/cassio-hsp/illi/assets/38111232/de7fb6f1-fab4-45f6-9aa5-0e9315f7d976)
+![illi-bot](https://github.com/cassio-hsp/illi/assets/38111232/de7fb6f1-fab4-45f6-9aa5-0e9315f7d976)
 
 
 ## This project integrates:
