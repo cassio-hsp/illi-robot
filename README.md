@@ -30,11 +30,12 @@ The chassi was made using Fusion 360 personal use license. Is three parts chassi
 
 ![illi5](https://github.com/cassio-hsp/illi/assets/38111232/6806101b-dc4d-4170-993b-9ceb8d595e39)
 
+## PCB 
 
-## Future Features:
-* Some temperatures of white for photograph use.
-* Customized PCB.
-* Rocket Mode - When you launch the module, the acceleration or desacceleration changes the color.
-* Presence Mode - uses a BLE keychain to detect your presence.
-* App for configuration.
-* Mesh network between Prism modules using ESP-NOW.
+
+## Future desired functions:
+* Oled Display Module.
+* Built-in buzzer on PCB.
+* Swarm control via MQTT.
+* Webserver for bot control.
+* Accelerometer control.
