@@ -5,14 +5,13 @@
 
 ## This project integrates:
 1. ESP32 Wemos Lolin Lite.
-2. HX
+2. Dual Channel H Bridge MX1508 
 3. Led sticks WS2812
 4. Lithium Battery 18650.
 
 ![placa-robot-hardware](https://github.com/cassio-hsp/illi/assets/38111232/f6828ff2-bc59-4728-9dbe-7cb4128ab167)
 
-
-## ESP32 | Lis3dh wiring:
+## teste
 * GPIO 18 | SCL
 * GPIO 19 | SDO
 * GPIO 23 | SDA
@@ -22,7 +21,19 @@
 
 ## CAD Model
 
-Soon 3D case model.
+The chassi was made using Fusion 360 personal use license. Is three parts chassi.
+
+![illi1](https://github.com/cassio-hsp/illi/assets/38111232/5053c246-3471-4713-8c31-4568582c4fe7)
+
+
+![illi2](https://github.com/cassio-hsp/illi/assets/38111232/e4728122-28b5-4338-8a2f-261ca5ca3b1c)
+
+
+
+![illi5](https://github.com/cassio-hsp/illi/assets/38111232/6806101b-dc4d-4170-993b-9ceb8d595e39)
+
+
+
 
 ## Future Features:
 * Some temperatures of white for photograph use.
