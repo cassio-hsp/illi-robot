@@ -32,7 +32,7 @@ The chassis was manufactured under a personal use license from Fusion 360. It ha
 ![illi5](https://github.com/cassio-hsp/illi/assets/38111232/e9e248cc-d94d-4ca3-bfed-9dcfcaf2557b)
 
 ## PCB 
-The PCB is a main board that receives one microcontroller, the h bridge, a LDO 3.3v regulator and the headers. The fabrication files (fab.rar) is ready to upload on a company do manufacturing it (JLCPCB, eg.)
+The PCB is a main board that receives one microcontroller, an h bridge, a LDO 3.3v regulator and the headers. The fabrication files (fab.rar) is ready to upload on a company do manufacturing it (JLCPCB, eg.)
 
 ![illi-schematic](https://github.com/cassio-hsp/illi/assets/38111232/6f347280-a710-43ec-a061-724df1f1a508)
 
