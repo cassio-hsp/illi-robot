@@ -9,10 +9,11 @@ Watch the illi video: https://www.youtube.com/watch?v=qA74jBnlvLI
 ## This project integrates:
 1. ESP32 Wemos Lolin Lite.
 2. Dual Channel H Bridge MX1508
-3. Four N20 Motors 500 rpm 6v.
+3. Four N20 Motors 500 RPM 6v.
 4. Led sticks WS2812
 5. Lithium Battery 18650.
 6. Passive Buzzer
+7. AMS1117-3.3 Voltage Regulator
 
 ![6f3e3a3b-c189-4cb9-83b0-b9c4cf363fd6](https://github.com/cassio-hsp/illi/assets/38111232/44ca9452-f09c-4d6a-b2d1-48b5c135ad09)
   
