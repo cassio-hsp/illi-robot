@@ -5,10 +5,10 @@ Watch the illi video: https://www.youtube.com/watch?v=qA74jBnlvLI
 
 ![de298807-1e43-4e8a-aacb-07bc80e611c2](https://github.com/cassio-hsp/illi/assets/38111232/43dd9743-0c51-4910-ab54-05e66cd5b1e9)
 
-The illi robot is a escape route to boring moments. 
-Ever in your desk, was thinkered for you that loves creates, test sensors and control things.
-Is a simple robot capable to recieves a lot of different sensors and other customizable modules. 
-illi is a geek toy, a platform, a blinking versatile lab.
+>The illi robot is a escape route to boring moments. 
+>Ever in your desk, was thinkered for you that loves creates, test sensors and control things.
+>Is a simple robot capable to recieves a lot of different sensors and other customizable modules. 
+>illi is a geek toy, a platform, a blinking versatile lab.
 
 
 ## This project integrates:
@@ -38,7 +38,7 @@ illi is a geek toy, a platform, a blinking versatile lab.
 
 ## 3D Print
 
-illi chassi was the result of numerous tests and the version on images was printed in PLA translucid. I think PETG could also be a fantastic choice.
+>illi chassi was the result of numerous tests and the version on images was printed in PLA translucid. I think PETG could also be a fantastic choice.
 
 ![illi-chassi-tests](https://github.com/cassio-hsp/illi-robot/assets/38111232/db2de553-ee46-4761-a740-bad55883d44d)
 
@@ -46,7 +46,7 @@ illi chassi was the result of numerous tests and the version on images was print
 
 
 ## PCB 
-The PCB is a main board that receives one microcontroller, an h bridge, a LDO 3.3v regulator and the headers. The fabrication files (fab.rar) is ready to upload on a company do manufacturing it (JLCPCB, eg.)
+>The PCB is a main board that receives one microcontroller, an h bridge, a LDO 3.3v regulator and the headers. The fabrication files (fab.rar) is ready to >upload on a company do manufacturing it (JLCPCB, eg.)
 
 ![illi-schematic](https://github.com/cassio-hsp/illi/assets/38111232/6f347280-a710-43ec-a061-724df1f1a508)
 
