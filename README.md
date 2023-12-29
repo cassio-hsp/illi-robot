@@ -22,7 +22,7 @@ Watch the illi video: https://www.youtube.com/watch?v=qA74jBnlvLI
 
 ## CAD Model
 
-The chassi was made using Fusion 360 personal use license. Have three parts.
+The chassis was manufactured under a personal use license from Fusion 360. It has three parts.
 
 ![illi1](https://github.com/cassio-hsp/illi/assets/38111232/86ba09ef-5c52-44b1-bbed-d3d01af795bb)
 
