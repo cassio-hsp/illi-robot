@@ -5,9 +5,9 @@ Watch the illi video: https://www.youtube.com/watch?v=qA74jBnlvLI
 
 ![de298807-1e43-4e8a-aacb-07bc80e611c2](https://github.com/cassio-hsp/illi/assets/38111232/43dd9743-0c51-4910-ab54-05e66cd5b1e9)
 
-The illi robot is a escape route to idle moments. 
-Ever in your desk, was thinkered for you that loves creates, test sensors and control things. 
-Is a simple robot capable to recieves a lot of different sensors and other customizable modules.
+The illi robot is a escape route to boring moments. 
+Ever in your desk, was thinkered for you that loves creates, test sensors and control things.
+Is a simple robot capable to recieves a lot of different sensors and other customizable modules. 
 illi is a geek toy, a platform, a blinking versatile lab.
 
 
