@@ -31,7 +31,7 @@ Watch the illi video: https://www.youtube.com/watch?v=qA74jBnlvLI
 
 ## CAD Model
 
->The chassis was manufactured under a personal use license from Fusion 360. It has three parts.
+**The chassis was manufactured under a personal use license from Fusion 360. It has three parts.
 
 ![illi1](https://github.com/cassio-hsp/illi/assets/38111232/86ba09ef-5c52-44b1-bbed-d3d01af795bb)
 
@@ -41,15 +41,16 @@ Watch the illi video: https://www.youtube.com/watch?v=qA74jBnlvLI
 
 ## 3D Print
 
->illi chassi was the result of numerous tests and the version on images was printed in PLA translucid. I think PETG could also be a fantastic choice.
+**illi chassi was the result of numerous tests and the version on images was printed in PLA translucid. I think PETG could also be a fantastic choice.
 
 ![illi-chassi-tests](https://github.com/cassio-hsp/illi-robot/assets/38111232/db2de553-ee46-4761-a740-bad55883d44d)
 
 ![illi-downside](https://github.com/cassio-hsp/illi-robot/assets/38111232/3e3ba373-bec9-462e-946b-5d67c0535972)
 
+---
 
 ## PCB 
->The PCB is a main board that receives one microcontroller, an h bridge, a LDO 3.3v regulator and the headers. The fabrication files (fab.rar) is ready to >upload on a company do manufacturing it (JLCPCB, eg.)
+**The PCB is a main board that receives one microcontroller, an h bridge, a LDO 3.3v regulator and the headers. The fabrication files (fab.rar) is ready to upload on a company do manufacturing it (JLCPCB, eg.)
 
 ![illi-schematic](https://github.com/cassio-hsp/illi/assets/38111232/6f347280-a710-43ec-a061-724df1f1a508)
 
