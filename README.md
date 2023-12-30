@@ -1,6 +1,6 @@
 # illi Robot
 ## A compact programmable desktop robot.
----
+
 Watch the illi video: https://www.youtube.com/watch?v=qA74jBnlvLI
 
 ![de298807-1e43-4e8a-aacb-07bc80e611c2](https://github.com/cassio-hsp/illi/assets/38111232/43dd9743-0c51-4910-ab54-05e66cd5b1e9)
@@ -10,6 +10,7 @@ Watch the illi video: https://www.youtube.com/watch?v=qA74jBnlvLI
 >Is a simple robot capable to recieves a lot of different sensors and other customizable modules. 
 >illi is a geek toy, a platform, a blinking versatile lab.
 
+---
 
 ## This project integrates:
 1. ESP32 Wemos Lolin Lite.
@@ -25,6 +26,8 @@ Watch the illi video: https://www.youtube.com/watch?v=qA74jBnlvLI
 ![illi-board](https://github.com/cassio-hsp/illi/assets/38111232/e9c04319-5a2a-4242-b593-b36cd923d8ba)
 
 ![a3a47e1d-7989-43e8-abf6-2358916360d3](https://github.com/cassio-hsp/illi/assets/38111232/3d253763-553d-4de6-8c7b-00fbae2b04f8)
+
+---
 
 ## CAD Model
 
